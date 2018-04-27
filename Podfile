@@ -21,7 +21,7 @@ target 'RxPokedex' do
     pod 'RxRealm'
     pod 'RxSwiftExt'
     pod 'RxGesture' 
-    pod 'Swinject'
+    pod 'Swinject', '2.1'
     pod 'SwinjectStoryboard'    
 
   target 'RxPokedexTests' do
